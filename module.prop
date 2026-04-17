@@ -1,0 +1,7 @@
+id=one35-no-system-buttons
+name=One35 No System Buttons
+version=v1
+versionCode=1
+author=theycallmeboxy via Claude
+description=Disables Android system button injection on the MagicX One35. Sets keycodetype=2 on boot so face buttons are pure gamepad inputs with no DPAD_CENTER or Back key injection. Fixes double-input in apps like Cannoli.
+updateJson=
