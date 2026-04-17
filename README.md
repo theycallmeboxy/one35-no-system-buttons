@@ -5,7 +5,7 @@ Prevent double inputs produced in certain apps thanks to MagicX input jank.
 
 ## Installation
 0. [Install Magisk](https://github.com/theycallmeboxy/android-skeletons/blob/main/README.md#root-instructions-for-magicx-one-35)
-1. Download repo as ZIP to your device
+1. Download Magisk Module ZIP to your device from 'Releases'
 2. Install as Magisk Module
 
 ## Uninstallation
